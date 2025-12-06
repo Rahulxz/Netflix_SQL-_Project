@@ -1,5 +1,5 @@
 # Netflix_SQL-_Project
-**Problem Statement**
+## Problem Statement
 
 Netflix hosts thousands of movies and TV shows from different countries, genres, and time periods.
 However, the raw dataset contains:
@@ -13,6 +13,8 @@ However, the raw dataset contains:
 **Missing and ambiguous values**
 
 **Text fields requiring cleaning and classification**
+
+## Objective
 
 The goal of this project is to use SQL to clean, transform, and analyze the Netflix dataset to answer key business questions, including:
 
@@ -34,7 +36,7 @@ The goal of this project is to use SQL to clean, transform, and analyze the Netf
 
 This project demonstrates how SQL can be used to generate valuable insights from real-world messy data.
 
- **Dataset Description**
+ ## Dataset Description
 
 The dataset stored in the netflix table includes the following key fields:
 
@@ -63,7 +65,7 @@ Netflix Solution
 
 **description –** Content summary
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 PostgreSQL
 
@@ -79,7 +81,7 @@ Aggregation & Grouping
 
 Common Table Expressions (CTEs)
 
-📌 Key Analyses Performed
+## 📌 Key Analyses Performed
 
 1️⃣ Movie vs TV Show Distribution
 
@@ -141,7 +143,7 @@ Unnest cast names and count occurrences.
 
 CTE that labels content referencing 'kill' or 'violence'.
 
-**Insights Gained**
+## **Insights Gained**
 
 Movies dominate Netflix’s library compared to TV Shows.
 
