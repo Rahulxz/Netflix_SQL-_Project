@@ -137,6 +137,10 @@ Use ILIKE for actor search and filter recent years.
 
 Unnest cast names and count occurrences.
 
+1️⃣5️⃣ Classify Content as 'Good' or 'Bad' Based on Keywords
+
+CTE that labels content referencing 'kill' or 'violence'.
+
 **Insights Gained**
 
 Movies dominate Netflix’s library compared to TV Shows.
@@ -152,7 +156,3 @@ Documentary and drama categories appear frequently.
 Certain actors and directors appear in significantly higher volumes.
 
 Keyword-based classification helps identify content themes.
-
-1️⃣5️⃣ Classify Content as 'Good' or 'Bad' Based on Keywords
-
-CTE that labels content referencing 'kill' or 'violence'.
