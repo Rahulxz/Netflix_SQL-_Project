@@ -229,10 +229,8 @@ Movies dominate Netflix’s library compared to TV Shows.
 
 The United States and India are leading contributors of Netflix content.
 
-Highly seasonal shows (5+ seasons) are relatively rare.
+The Movie "Black Mirror: Bandersnatch" has the longest duration .
 
-Documentary and drama categories appear frequently.
+Only 99 TV Shows has more than 5 seasons.
 
-Certain actors and directors appear in significantly higher volumes.
 
-Keyword-based classification helps identify content themes.
